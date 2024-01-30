@@ -8,13 +8,13 @@
 
 - I’m looking to collaborate **Data/BI Project**
 
-- 🤝 I’m currently learning **Python, soon to learn R**
+- 🤝 I’m currently learning **Python, and R**
 
 - I love **Business (StartUp)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.hackerrank.com/@franzscheller" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@franzscheller" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/sixtus-ikpali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@franzscheller" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
