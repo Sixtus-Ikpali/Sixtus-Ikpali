@@ -1,7 +1,6 @@
 ![MasterHead](https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif)
 <h1 align="center">Hello 👋, I'm Sixtus Ikpali​</h1>
 <h3 align="center">I'm passionate about Data Analytics with domain in BI </h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f9/13/57/f9135788c6aeeec438abb986f283936c.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dataspieler12345&label=Profile%20views&color=0e75b6&style=flat" alt="dataspieler12345" /> </p>
 
