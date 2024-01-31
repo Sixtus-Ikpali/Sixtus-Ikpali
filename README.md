@@ -16,7 +16,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="http:www.linkedin.com/in/sixtus-ikpali" target="_blank" rel="noreferrer"> 🔗 </a>
+<a href="mailto:sixtus.ikpali@gmail.com" target="_blank" rel="noreferrer"> 📧 </a>
+
 
 </p>
 
