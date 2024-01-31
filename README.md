@@ -16,7 +16,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="http:www.linkedin.com/in/sixtus-ikpali" target="_blank" rel="noreferrer">📚</a>
+<a href="http:www.linkedin.com/in/sixtus-ikpali" target="_blank" rel="noreferrer">![image](https://github.com/Sixtus-Ikpali/Sixtus-Ikpali/assets/139257578/061c48ab-6d7b-4d90-b608-d3c37c9c0479)
+</a>
 
 </p>
 
