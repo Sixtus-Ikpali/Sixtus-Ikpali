@@ -16,7 +16,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="http:www.linkedin.com/in/sixtus-ikpali" 😊 /a>
+<a href="http:www.linkedin.com/in/sixtus-ikpali" target="_blank" rel="noreferrer">📚</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
