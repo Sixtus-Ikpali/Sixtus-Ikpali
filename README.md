@@ -12,7 +12,7 @@
 
 - I love **Business (StartUp)**
 
-- In God I trust, everyone else bring your **Data**
+- In God I trust, everyone else bring your **Data** 😊
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
