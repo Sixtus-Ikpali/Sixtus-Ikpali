@@ -6,11 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sixtus-Ikpali&label=Profile%20views&color=0e75b6&style=flat" alt="Sixtus-Ikpali" /> </p>
 
-- I’m looking to collaborate **Data/BI Project**
+- I’m looking to collaborate on **Data/BI Project**
 
+- I infuse in life into **Data** bringing it alive
+  
 - 🤝 I’m currently learning **Python, and R**
 
-- I love **Business (StartUp)**
+- I love **Business (StartUp)** working with StartUps gives me the most satisfaction
 
 - In God I trust, everyone else bring your **Data** 😊
 
