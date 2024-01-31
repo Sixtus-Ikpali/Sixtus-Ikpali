@@ -16,10 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="http:www.linkedin.com/in/sixtus-ikpali" target="_blank" rel="noreferrer"> ooo </a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<a href="http:www.linkedin.com/in/sixtus-ikpali" target="_blank" rel="noreferrer">📚</a>
-
+<a href="http:www.linkedin.com/in/sixtus-ikpali" target="_blank" rel="noreferrer"> 🔗 </a>
 
 </p>
 
