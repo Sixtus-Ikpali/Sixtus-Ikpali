@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="http:www.linkedin.com/in/sixtus-ikpali" target="blank"><img align="center" src="https://www.linkedin.com" alt="😊" ..... /></a>
+<a href="http:www.linkedin.com/in/sixtus-ikpali" .... /a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
